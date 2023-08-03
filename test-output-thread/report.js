@@ -1,0 +1,4 @@
+$(document).ready(function() {
+CucumberHTML.timelineItems.pushArray([{"id":"e43cc0cc-8897-4f6f-b32b-9f1443d8578b","feature":"verify add Employee funtionality","scenario":"Add customer funtionality","start":1690981597217,"group":1,"content":"","tags":"","end":1690981600675,"className":"failed"},{"id":"f4ae62c7-e8e3-4553-acd7-b746b432678c","feature":"verify add Employee funtionality","scenario":"Add customer funtionality","start":1690981588306,"group":1,"content":"","tags":"","end":1690981594628,"className":"failed"},{"id":"07e06424-aa4e-4c4a-ae9f-c10d95611f58","feature":"verify add Employee funtionality","scenario":"Add customer funtionality","start":1690981594646,"group":1,"content":"","tags":"","end":1690981597212,"className":"failed"}]);
+CucumberHTML.timelineGroups.pushArray([{"id":1,"content":"Thread[main,5,main]"}]);
+});
